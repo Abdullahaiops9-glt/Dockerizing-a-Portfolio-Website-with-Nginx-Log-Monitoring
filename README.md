@@ -18,18 +18,31 @@ The website is containerized and served through an Nginx container, simulating a
 ## 🧱 Project Structure
 
 docker-portfolio-nginx-logs/
+
 │
+
 ├── index.html
+
 ├── styles.css
+
 ├── Dockerfile
+
 ├── README.md
+
 ├── commands.sh
+
 │
+
 ├── screenshots/
+
 │   ├── 1-project-files.png
+
 │   ├── 2-docker-build.png
+
 │   ├── 3-container-running.png
+
 │   ├── 4-website-output.png
+
 │   ├── 5-logs.png
 
 ---
