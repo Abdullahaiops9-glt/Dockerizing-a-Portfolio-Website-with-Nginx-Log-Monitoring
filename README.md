@@ -19,8 +19,6 @@ The website is containerized and served through an Nginx container, simulating a
 
 docker-portfolio-nginx-logs/
 
-│
-
 ├── index.html
 
 ├── styles.css
@@ -30,8 +28,6 @@ docker-portfolio-nginx-logs/
 ├── README.md
 
 ├── commands.sh
-
-│
 
 ├── screenshots/
 
