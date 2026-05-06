@@ -76,4 +76,4 @@ docker-portfolio-nginx-logs/
 - Logs monitored in real-time
 
 ## 🔗 Links
-📘 Medium Article: 
+📘 Medium Article: https://medium.com/@abdullahaiops9/dockerizing-a-portfolio-website-with-nginx-log-monitoring-9abb40949f33
