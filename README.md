@@ -41,6 +41,7 @@ docker-portfolio-nginx-logs/
 
 │   ├── 5-logs.png
 
+│   ├── 6-Real-time Logs Monitoring
 ---
 
 ## ⚙️ Setup & Run
